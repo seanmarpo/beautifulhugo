@@ -172,3 +172,15 @@ id = "strava"
 url = "https://www.strava.com/athletes/%s"
 title = "Strava"
 icon = "fab fa-strava"
+
+[[social_icons]]
+id = "yelp"
+url = "https://www.yelp.com/biz/%s"
+title = "Yelp"
+icon = "fab fa-yelp"
+
+[[social_icons]]
+id = "google"
+url = "https://g.page/r/%s"
+title = "Google"
+icon = "fab fa-google"

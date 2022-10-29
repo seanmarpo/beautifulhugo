@@ -74,6 +74,8 @@ pygmentsCodefencesGuessSyntax = true
   slack = "username"
   discord = "invite code (https://discord.gg/XXXXXXX)"
   strava = "userid"
+  google = "page-id" # https://g.page/r/XXXXXXXX
+  yelp = "page-shortcode" # https://www.yelp.com/biz/xxxx-xxxx-xxxx-xxxx
 
 [[menu.main]]
     name = "Blog"
